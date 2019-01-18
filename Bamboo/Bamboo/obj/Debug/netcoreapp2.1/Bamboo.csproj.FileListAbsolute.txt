@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\Bamboo\Bamboo\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\source\repos\Bamboo\Bamboo\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\source\repos\Bamboo\Bamboo\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\source\repos\Bamboo\Bamboo\bin\Debug\netcoreapp2.1\Bamboo.deps.json
+C:\Users\User\source\repos\Bamboo\Bamboo\bin\Debug\netcoreapp2.1\Bamboo.runtimeconfig.json
+C:\Users\User\source\repos\Bamboo\Bamboo\bin\Debug\netcoreapp2.1\Bamboo.runtimeconfig.dev.json
+C:\Users\User\source\repos\Bamboo\Bamboo\bin\Debug\netcoreapp2.1\Bamboo.dll
+C:\Users\User\source\repos\Bamboo\Bamboo\bin\Debug\netcoreapp2.1\Bamboo.pdb
+C:\Users\User\source\repos\Bamboo\Bamboo\obj\Debug\netcoreapp2.1\Bamboo.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Bamboo\Bamboo\obj\Debug\netcoreapp2.1\Bamboo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Bamboo\Bamboo\obj\Debug\netcoreapp2.1\Bamboo.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Bamboo\Bamboo\obj\Debug\netcoreapp2.1\Bamboo.AssemblyInfo.cs
+C:\Users\User\source\repos\Bamboo\Bamboo\obj\Debug\netcoreapp2.1\Bamboo.dll
+C:\Users\User\source\repos\Bamboo\Bamboo\obj\Debug\netcoreapp2.1\Bamboo.pdb
