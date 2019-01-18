@@ -8,7 +8,7 @@ namespace Bamboo
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.IsFalse(false);
+            Assert.IsFalse(true);
         }
     }
 }
